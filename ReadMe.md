@@ -8,4 +8,4 @@ This is a C++ application of a simple Warehouse organization system that keeps t
 
 - How to implement and use a Stack Data Structure
 - How to implement a menu-driven program
-- Object-Oriented Programmin
+- Object-Oriented Programming
