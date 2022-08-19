@@ -1,4 +1,4 @@
-# **Backward Warehouse**
+# **Warehouse Organization System**
 
 This is a C++ application of a simple Warehouse organization system that keeps track of orders and deliveries. 
 <br />
