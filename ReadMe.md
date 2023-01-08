@@ -1,10 +1,10 @@
 # **Warehouse Organization System**
 
-This is a C++ application of a simple Warehouse organization system that keeps track of orders and deliveries. 
+The Warehouse Organization System is a C++ application designed to streamline the process of tracking orders and deliveries in a warehouse setting. By utilizing a stack data structure and following object-oriented programming principles, this system allows for efficient and organized management of warehouse operations.
 <br />
 <br />
 
-# **What I Learned**
+# **This project offers the following benefits:**
 
-- How to implement and use a Stack Data Structure
-- Object-Oriented Programming
+- Improved efficiency: The stack data structure allows for quick and easy access to order and delivery information, reducing the time and effort required to manage these processes.
+- Enhanced organization: The application's object-oriented design promotes clear and organized code, making it easier to maintain and update in the future.
